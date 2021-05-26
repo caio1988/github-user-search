@@ -1,0 +1,43 @@
+.home-title{
+    position: absolute;
+    width: 580px;
+    height: 128px;
+    left: 120px;
+    top: 179px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    color: #062847;
+}
+
+.home-description{
+    position: absolute;
+    width: 612px;
+    height: 216px;
+    left: 120px;
+    top: 331px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #5A6774;
+}
+
+a.mail-text{
+    color: #1890FF;
+    text-decoration: none;
+}
+
+.div-btn{
+    padding-bottom: 265px;
+    margin-top: 48px;
+    position: absolute;
+    width: 101px;
+    height: 40px;
+    left: 120px;
+    top: 595px;
+}
